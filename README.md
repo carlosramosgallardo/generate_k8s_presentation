@@ -9,10 +9,3 @@ It is a sample Python script that uses the [`python-pptx`](https://python-pptx.r
 
 ```bash
 pip install python-pptx
-
-Copia el contenido anterior en un archivo, por ejemplo `generate_k8s_presentation.py`.
-
-Ejecuta:
-
-```bash
-python generate_k8s_presentation.py
